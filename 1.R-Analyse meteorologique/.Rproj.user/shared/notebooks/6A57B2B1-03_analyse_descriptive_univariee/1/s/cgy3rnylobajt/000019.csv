@@ -1,0 +1,3 @@
+"0",""
+"0","donnees_temperature |> "
+"0","  filter(tmin > (quartiles[4] + 1.5*(quartiles[4] - quartiles[2])))"

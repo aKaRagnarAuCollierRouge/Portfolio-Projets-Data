@@ -1,0 +1,6 @@
+"0","# diagramme en barres"
+"0","## initial"
+"0","ggplot(donnees_temperature) + "
+"0","  aes(x = region) + "
+"0","  geom_bar() +"
+"0","  theme_classic()"

@@ -1,0 +1,6 @@
+"0","donnees_temperature |> "
+"0","  ggplot() +"
+"0","  aes(x = densite_pop, y = tmin, color = densite_pop) +"
+"0","  geom_boxplot() +"
+"0","  theme_classic()"
+"0",""

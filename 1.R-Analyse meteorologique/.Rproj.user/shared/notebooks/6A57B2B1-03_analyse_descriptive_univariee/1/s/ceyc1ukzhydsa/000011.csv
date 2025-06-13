@@ -1,0 +1,7 @@
+"0","donnees_temperature |> "
+"0","  count(mois, annee) |> "
+"0","  ggplot() +"
+"0","  aes(x = mois, y = annee, fill = n) +"
+"0","  geom_tile() +"
+"0","  theme_classic()"
+"0",""

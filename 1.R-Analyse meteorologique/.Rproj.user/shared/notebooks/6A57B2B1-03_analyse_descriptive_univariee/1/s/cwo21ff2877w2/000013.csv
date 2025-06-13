@@ -1,0 +1,5 @@
+"0","# Vérification que les couples de coordonnées sont uniques pour un chef-lieu"
+"0","donnees_temperature |>"
+"0","  distinct(chef_lieu, longitude, latitude) |>"
+"0","  count(chef_lieu) |>"
+"0","  filter(n != 1)"

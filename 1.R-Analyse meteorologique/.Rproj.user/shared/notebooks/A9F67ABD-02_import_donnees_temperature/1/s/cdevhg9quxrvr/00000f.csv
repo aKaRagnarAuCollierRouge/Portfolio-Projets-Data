@@ -1,0 +1,24 @@
+"0","glimpse(donnees_temperature)"
+"1","Rows: 99,264"
+"1",""
+"1","
+"
+"1","Columns: 12"
+"1",""
+"1","
+"
+"1","$ code_insee_departement                         [3m[38;5;246m<fct>[39m[23m 48, 48, 48, 48, 48, 48, 48, 48, 48, 48, 48, 4…
+$ departement                                    [3m[38;5;246m<fct>[39m[23m Lozère, Lozère, Lozère, Lozère, Lozère, Lozèr…
+$ densite_par_millier_habitants_km_carre_en_2018 [3m[38;5;246m<dbl>[39m[23m 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 1…
+$ date_obs                                       [3m[38;5;246m<date>[39m[23m 2021-01-01, 2021-01-05, 2021-01-12, 2021-01-…
+$ tmin                                           [3m[38;5;246m<dbl>[39m[23m -3.9, -7.9, -9.9, -6.4, 2.8, 4.1, 3.6, 5.1, 7…
+$ tmax                                           [3m[38;5;246m<dbl>[39m[23m 0.6, -0.4, 3.4, 2.0, 8.0, 7.4, 10.3, 11.7, 9.…
+$ tmoy                                           [3m[38;5;246m<dbl>[39m[23m -1.65, -4.15, -3.25, -2.20, 5.40, 5.75, 6.95,…
+$ chef_lieu                                      [3m[38;5;246m<fct>[39m[23m Mende, Mende, Mende, Mende, Mende, Mende, Men…
+$ latitude                                       [3m[38;5;246m<dbl>[39m[23m 44.53484, 44.53484, 44.53484, 44.53484, 44.53…
+$ longitude                                      [3m[38;5;246m<dbl>[39m[23m 3.491068, 3.491068, 3.491068, 3.491068, 3.491…
+$ region                                         [3m[38;5;246m<fct>[39m[23m Occitanie, Occitanie, Occitanie, Occitanie, O…
+$ continent                                      [3m[38;5;246m<fct>[39m[23m oui, oui, oui, oui, oui, oui, oui, oui, oui, …"
+"1",""
+"1","
+"

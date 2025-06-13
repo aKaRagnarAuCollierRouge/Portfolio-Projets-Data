@@ -1,0 +1,24 @@
+"0","glimpse(donnees_temperature)"
+"1","Rows: 99,264"
+"1",""
+"1","
+"
+"1","Columns: 12"
+"1",""
+"1","
+"
+"1","$ code_insee_departement                         [3m[38;5;246m<fct>[39m[23m …
+$ departement                                    [3m[38;5;246m<fct>[39m[23m …
+$ densite_par_millier_habitants_km_carre_en_2018 [3m[38;5;246m<dbl>[39m[23m …
+$ date_obs                                       [3m[38;5;246m<date>[39m[23m …
+$ tmin                                           [3m[38;5;246m<dbl>[39m[23m …
+$ tmax                                           [3m[38;5;246m<dbl>[39m[23m …
+$ tmoy                                           [3m[38;5;246m<dbl>[39m[23m …
+$ chef_lieu                                      [3m[38;5;246m<fct>[39m[23m …
+$ latitude                                       [3m[38;5;246m<dbl>[39m[23m …
+$ longitude                                      [3m[38;5;246m<dbl>[39m[23m …
+$ region                                         [3m[38;5;246m<fct>[39m[23m …
+$ continent                                      [3m[38;5;246m<fct>[39m[23m …"
+"1",""
+"1","
+"

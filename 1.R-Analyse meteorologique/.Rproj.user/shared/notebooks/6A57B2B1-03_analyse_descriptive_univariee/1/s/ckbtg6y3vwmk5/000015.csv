@@ -1,0 +1,9 @@
+"0",""
+"0","donnees_temperature_corr <- "
+"0","  inner_join("
+"0","    donnees_temperature |> "
+"0","      select(- longitude, - latitude),"
+"0","    chef_lieu_coord_corr"
+"0","  )"
+"1","[38;5;232mJoining with `by = join_by(chef_lieu)`[39m
+"

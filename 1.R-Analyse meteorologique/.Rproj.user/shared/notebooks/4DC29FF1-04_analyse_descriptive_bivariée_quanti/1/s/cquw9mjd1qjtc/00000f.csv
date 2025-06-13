@@ -1,0 +1,8 @@
+"0","#Représentation graphique"
+"0",""
+"0","# représentation graphique  "
+"0","donnees_temperature |> "
+"0","  ggplot() +"
+"0","  aes(x = tmoy, y = tmin) +"
+"0","  geom_point(alpha  = 0.2, size = 0.2) +"
+"0","  theme_classic()"

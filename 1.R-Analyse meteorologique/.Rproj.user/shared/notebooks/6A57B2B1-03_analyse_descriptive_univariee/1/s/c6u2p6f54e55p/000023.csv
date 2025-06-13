@@ -1,0 +1,7 @@
+"0",""
+"0","## trie selon l'occurrence"
+"0","ggplot(donnees_temperature) + "
+"0","  aes(x = fct_infreq(region)) + "
+"0","  geom_bar() +"
+"0","  theme_classic() +"
+"0","  theme(axis.text.x = element_text(angle = 90))"

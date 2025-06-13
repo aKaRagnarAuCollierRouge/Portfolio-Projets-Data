@@ -1,0 +1,7 @@
+"0","donnees_temperature_province |> "
+"0","  count(region, densite_pop) |> "
+"0","  ggplot() +"
+"0","  aes(x = densite_pop, y = region, fill = n) +"
+"0","  geom_tile() +"
+"0","  theme_classic()"
+"0",""

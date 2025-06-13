@@ -1,0 +1,6 @@
+"0","ggplot(donnees_temperature) + # chois du jeu de données"
+"0","  aes(x = tmin) + # choix de la variable à représenter"
+"0","  geom_histogram() + # choix du type de graphique"
+"0","  theme_classic() # choix d'un thème pour la représentation graphique"
+"1","[38;5;232m`stat_bin()` using `bins = 30`. Pick better value with `binwidth`.[39m
+"

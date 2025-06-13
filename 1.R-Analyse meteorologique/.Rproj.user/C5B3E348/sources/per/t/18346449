@@ -1,0 +1,31 @@
+{
+    "id": "18346449",
+    "path": "~/PortfolioProject/RProject/04_analyse_descriptive_bivariée_quanti.qmd",
+    "project_path": "04_analyse_descriptive_bivariée_quanti.qmd",
+    "type": "quarto_markdown",
+    "hash": "2446850676",
+    "contents": "",
+    "dirty": false,
+    "created": 1725804877305.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "0,0",
+        "scrollLine": "0",
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "docOutlineVisible": "1",
+        "rmdVisualModeLocation": "191:5.333333492279053",
+        "rmdVisualCollapsedChunks": ""
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1725813488,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1732465608644,
+    "read_only": false,
+    "read_only_alternatives": []
+}

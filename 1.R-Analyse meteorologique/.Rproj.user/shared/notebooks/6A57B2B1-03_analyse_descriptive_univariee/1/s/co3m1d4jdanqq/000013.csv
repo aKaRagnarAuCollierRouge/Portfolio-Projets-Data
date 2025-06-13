@@ -1,0 +1,37 @@
+"0","# vérification que les dates soient bien des dates"
+"0","glimpse(donnees_temperature)"
+"1","Rows: 105,120"
+"1",""
+"1","
+"
+"1","Columns: 13"
+"1",""
+"1","
+"
+"1","$ departement                  [3m[38;5;246m<fct>[39m[23m Lozère, Lozère, Lozère, Lozère, Lozère, Lozère, Lozère, Lozère, Lo…
+$ date_obs                     [3m[38;5;246m<date>[39m[23m 2021-01-01, 2021-01-05, 2021-01-12, 2021-01-26, 2021-01-31, 2021-…
+$ code_insee_departement       [3m[38;5;246m<fct>[39m[23m 48, 48, 48, 48, 48, 48, 48, 48, 48, 48, 48, 48, 48, 48, 48, 48, 48…
+$ tmin                         [3m[38;5;246m<dbl>[39m[23m -3.9, -7.9, -9.9, -6.4, 2.8, 4.1, 3.6, 5.1, 7.5, -4.6, -0.7, 5.1, …
+$ tmax                         [3m[38;5;246m<dbl>[39m[23m 0.6, -0.4, 3.4, 2.0, 8.0, 7.4, 10.3, 11.7, 9.2, 1.1, 13.9, 9.9, 13…
+$ tmoy                         [3m[38;5;246m<dbl>[39m[23m -1.65, -4.15, -3.25, -2.20, 5.40, 5.75, 6.95, 8.40, 8.35, -1.75, 6…
+$ chef_lieu                    [3m[38;5;246m<fct>[39m[23m Mende, Mende, Mende, Mende, Mende, Mende, Mende, Mende, Mende, Men…
+$ latitude                     [3m[38;5;246m<dbl>[39m[23m 44.53484, 44.53484, 44.53484, 44.53484, 44.53484, 44.53484, 44.534…
+$ longitude                    [3m[38;5;246m<dbl>[39m[23m 3.491068, 3.491068, 3.491068, 3.491068, 3.491068, 3.491068, 3.4910…
+$ region                       [3m[38;5;246m<fct>[39m[23m Occitanie, Occitanie, Occitanie, Occitanie, Occitanie, Occitanie, …
+$ continent                    [3m[38;5;246m<fct>[39m[23m oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, o…
+$ densite_humaine_par_km_carre [3m[38;5;246m<dbl>[39m[23m 15000, 15000, 15000, 15000, 15000, 15000, 15000, 15000, 15000, 150…
+$ densite_pop                  [3m[38;5;246m<fct>[39m[23m peu peuplé, peu peuplé, peu peuplé, peu peuplé, peu peuplé, peu pe…"
+"1",""
+"1","
+"
+"0","class(donnees_temperature$date_obs)"
+"1","[1]"
+"1"," ""Date"""
+"1","
+"
+"0","# création des colonnes mois et année"
+"0","donnees_temperature <- donnees_temperature |> "
+"0","  mutate("
+"0","    mois = month(date_obs, abbr = FALSE, label = TRUE),"
+"0","    annee = year(date_obs)"
+"0","  )"

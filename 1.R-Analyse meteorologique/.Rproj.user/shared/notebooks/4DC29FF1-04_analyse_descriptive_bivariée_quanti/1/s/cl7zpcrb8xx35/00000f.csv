@@ -1,0 +1,4 @@
+"0","donnees_temperature <- read_csv("
+"0","  ""data/donnees_temperature_corrigees.csv"","
+"0","  col_types = c(""fDfnnnfffnffnnn"")"
+"0","  )"
