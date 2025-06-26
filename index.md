@@ -121,21 +121,22 @@ Création de l'interface graphique avec Pyside-Python,utilisation de SQL pour le
 - Suivi logistique : Mise à jour en temps réel des statuts de colis dans le système d'information  
 - Optimisation des flux : Organisation des envois par zones géographiques pour rationaliser les tournées de livraison  
 
-#### 🏤 Opérateur de production polyvalent | La Poste  
+####  Opérateur de production polyvalent | La Poste  
 *06/2023 - 12/2023*  
 - Tri et distribution du courrier : Organisation des envois par secteurs géographiques selon les plans de tournées  
 - Contrôle qualité : Surveillance des machines de tri, identification et correction des anomalies de traitement  
 - Préparation des expéditions : Chargement optimisé des véhicules de livraison selon les impératifs logistiques  
 
-#### 🧪 Missions intérimaires diverses  
+####  Missions intérimaires diverses  
 *08/2021 - 12/2022*  
 - Divers postes en logistique, production et administration  
 
-#### 🌲 Préparation concours ONF  
+#### Préparation concours ONF  
 *01/2021 - 06/2021*  
-- Étude et préparation au concours de l’Office National des Forêts  
+-Étude et préparation  au concours de l’Office National des Forêts, épreuves passées avec succès.
+-À l’issue du concours, réévaluation de mon projet professionnel : décision de ne pas poursuivre dans cette voie, en quête d’un parcours plus aligné avec mes aspirations personnelles
 
-#### 🥋 Éducateur Judo (Stage) | GUC  
+#### Éducateur Judo (Stage) | GUC  
 *09/2018 - 05/2020*  
 - Animation des séances d'entraînement  
 - Participation à l'organisation d'événements sportifs  
