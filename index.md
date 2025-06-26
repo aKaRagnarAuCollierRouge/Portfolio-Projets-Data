@@ -133,8 +133,8 @@ Création de l'interface graphique avec Pyside-Python,utilisation de SQL pour le
 
 #### Préparation concours ONF  
 *01/2021 - 06/2021*  
--Étude et préparation  au concours de l’Office National des Forêts, épreuves passées avec succès.
--À l’issue du concours, réévaluation de mon projet professionnel : décision de ne pas poursuivre dans cette voie, en quête d’un parcours plus aligné avec mes aspirations personnelles
+- Étude et préparation  au concours de l’Office National des Forêts, épreuves passées avec succès.  
+- À l’issue du concours, réévaluation de mon projet professionnel : décision de ne pas poursuivre dans cette voie, en quête d’un parcours plus aligné avec mes aspirations personnelles
 
 #### Éducateur Judo (Stage) | GUC  
 *09/2018 - 05/2020*  
