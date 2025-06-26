@@ -1,7 +1,14 @@
 # Data Analyst
+
+### À propos de moi
+
+Je suis de nature curieuse et compétitive. J’aime aller au fond des choses et chercher la performance dans toutes les activités que j’entreprends. Motivé, aimant et sympathique, j’apprécie aider mes camarades et m’efforce de maintenir une bonne ambiance ainsi qu’une forte cohésion d’équipe.
+
 **Languages:** Python, SQL, DAX, VBA, React  
 **Librairies:** pandas, scikit-learn, Django, seaborn, Pyside, streamlit  
 **Tools:** PowerBi, Tableau, Jupyter Notebook, Excel  
+
+
 
 ### Formation
 - 2025 : **Master 1- Data Analyst (Informatique, marketing, étude de marché)**| OpenClassrooms
@@ -83,10 +90,42 @@ Possibilité de consulter la base existante et d’ajouter ses propres création
 Facilitation des backtestings et des analyses.  
 Création de l'interface graphique avec Pyside-Python,utilisation de SQL pour les requetes.
 
-### Expérience Professionnels
+### Passions
+
+**Finance & économie** : Analyses d’actifs (hebdomadaire et mensuel), modélisation de stratégies de trading sur marge  
+- **Marketing & produit** : Étude du succès produit, positionnement d'offres  
+- **Sports** : Escalade (niveau 7B), canyoning (10 sorties/an), alpinisme  
+- **Musique classique** : Pratique du piano, étude du contrepoint
+
+### Expérience 
+
+#### 📦 Gestionnaire des flux | FedEx  
+*05/2024 - 06/2025*  
+- Réception et tri des marchandises : Prise en charge des frets entrants, vérification des documents d'expédition  
+- Suivi logistique : Mise à jour en temps réel des statuts de colis dans le système d'information  
+- Optimisation des flux : Organisation des envois par zones géographiques pour rationaliser les tournées de livraison  
+
+#### 🏤 Opérateur de production polyvalent | La Poste  
+*06/2023 - 12/2023*  
+- Tri et distribution du courrier : Organisation des envois par secteurs géographiques selon les plans de tournées  
+- Contrôle qualité : Surveillance des machines de tri, identification et correction des anomalies de traitement  
+- Préparation des expéditions : Chargement optimisé des véhicules de livraison selon les impératifs logistiques  
+
+#### 🧪 Missions intérimaires diverses  
+*08/2021 - 12/2022*  
+- Divers postes en logistique, production et administration  
+
+#### 🌲 Préparation concours ONF  
+*01/2021 - 06/2021*  
+- Étude et préparation au concours de l’Office National des Forêts  
+
+#### 🥋 Éducateur Judo (Stage) | GUC  
+*09/2018 - 05/2020*  
+- Animation des séances d'entraînement  
+- Participation à l'organisation d'événements sportifs  
+- Planification des séances et accompagnement personnalisé des jeunes compétiteurs  
 
 
-### Personnalité et passions
 
 
 
