@@ -1,7 +1,7 @@
 ## Data Analyst
-**Languages:** Python,SQL,DAX,VBA,React
-**Librairies:** pandas, scikit-learn, Django, seaborn, Pyside, streamlit
-**Tools:** PowerBi, Tableau, Jupyter Notebook, Excel
+**Languages:** Python,SQL,DAX,VBA,React  
+**Librairies:** pandas, scikit-learn, Django, seaborn, Pyside, streamlit  
+**Tools:** PowerBi, Tableau, Jupyter Notebook, Excel  
 
 ## Formation
 - 2025 : **Master 1- Data Analyst (Informatique, marketing, étude de marché)**| OpenClassrooms
