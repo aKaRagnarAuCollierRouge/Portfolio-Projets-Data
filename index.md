@@ -1,8 +1,8 @@
 # Data Analyst
 
-### À propos de moi
+De nature curieuse et compétitive ,j’aime aller au fond des choses et chercher la performance dans toutes les activités que j’entreprends. Motivé, aimant et sympathique, j’apprécie aider mes camarades et m’efforce de maintenir une bonne ambiance ainsi qu’une forte cohésion d’équipe.
 
-Je suis de nature curieuse et compétitive. J’aime aller au fond des choses et chercher la performance dans toutes les activités que j’entreprends. Motivé, aimant et sympathique, j’apprécie aider mes camarades et m’efforce de maintenir une bonne ambiance ainsi qu’une forte cohésion d’équipe.
+### Compétences Techniques  
 
 **Languages:** Python, SQL, DAX, VBA, React  
 **Librairies:** pandas, scikit-learn, Django, seaborn, Pyside, streamlit  
