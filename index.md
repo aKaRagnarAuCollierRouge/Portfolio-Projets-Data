@@ -1,6 +1,6 @@
 # Data Analyst
 **Languages:** Python, SQL, DAX, VBA, React  
-**Librairies:**pandas, scikit-learn, Django, seaborn, Pyside, streamlit  
+**Librairies:** pandas, scikit-learn, Django, seaborn, Pyside, streamlit  
 **Tools:** PowerBi, Tableau, Jupyter Notebook, Excel  
 
 ### Formation
